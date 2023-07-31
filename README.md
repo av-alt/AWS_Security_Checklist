@@ -66,6 +66,8 @@
       
 - [ ] MFA delete is enabled https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiFactorAuthenticationDelete.html
 
+- [ ] Check if files are listable from URL/CLI
+
 ## Database
 
 - [ ] Check if data encryption is enabled on MongoDb
