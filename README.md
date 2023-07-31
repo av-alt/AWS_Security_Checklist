@@ -26,6 +26,8 @@
 
 - [ ] Any irrelevant security group has to be removed
 
+- [ ] security groups has no 0 allow access
+
 ## Load Balancer
 
 - [ ] There is a security group just for load balancer
@@ -49,6 +51,8 @@
 - [ ] Check and delete unnecessary keys
 
 - [ ] Encrypt ~/.aws/credentials file in your local
+
+- [ ]  Check and delete unnecessary priveleges (Access Analyzer Users/Security groups)
 
 ## CloudTrail
 
