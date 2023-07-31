@@ -62,7 +62,8 @@
 
 ## S3
 
-- [ ] Check if the sensitive files encrypted at S3 
+- [ ] Check if the sensitive files encrypted at S3
+- [ ] MFA delete 
 
 ## Database
 
